@@ -65,3 +65,8 @@ Support & Learning: Throughout the project, I leveraged ChatGPT for assistance i
 
 ### **Conclusion**
 This chatbot is a **basic rule-based system** that efficiently provides information about **IISc Bangalore**. It successfully handles **simple queries** and includes error handling for conversation termination. However, it lacks **learning capabilities, flexibility, and response variation**. By incorporating **natural language processing (NLP) techniques, machine learning, or AI-driven models**, this chatbot can be **significantly improved** to provide a more **interactive and intelligent user experience**.  
+
+*Output*
+
+![Image](https://github.com/user-attachments/assets/9d41fd6e-bb2a-438e-b0d4-e5df99b5006c)
+
